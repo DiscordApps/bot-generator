@@ -1,2 +1,4 @@
 # DiscordBotPanel
-Create a basic discord bot
+
+
+Create an example discord bot.
