@@ -1,6 +1,8 @@
 ## Introduction
 
+
 > **Create a discord bot in under 30 seconds** with this easy to use template generator!
+
 
 ## Code Samples
 
